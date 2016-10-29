@@ -1,0 +1,204 @@
+/**Command Green Color**/
+@command-color: limegreen;
+@innovation-yellow: #FFCC33;
+@innovation-red: #CC3333;
+@innovation-blue: #0099FF;
+@innovation-green: #61bc47;
+@innovation-orange: orange;
+
+@block-border: 1px solid #CCC;
+
+.tag-colors() {
+    .UX, .red {
+        background-color:@innovation-red;
+        color:#FFF;
+    }
+    .SoftwareDevelopment, .yellow {
+        background-color:@innovation-yellow;
+        color:#666666;
+    }
+    .VisualDesign, .blue {
+        background-color:@innovation-blue;
+        color:#FFF;
+    }
+    .Marketing, .orange {
+        background-color:@innovation-orange;
+        color:#FFF;
+    }
+    .UserResearch, .green {
+        background-color:@innovation-green;
+        color:#FFF;
+    }
+    .ProcessOptimization {
+        background-color:#7918d3;
+        color:#FFF;
+    }
+    .Testing {
+        background-color:#f75429;
+        color:#FFF;
+    }
+    .Security {
+        background-color:#2941f7;
+        color:#FFF;
+    }
+    .BuildChainAutomation {
+        background-color:#2f5279;
+        color:#FFF;
+    }
+    .TeamBuilding {
+        background-color:#18d38f;
+        color:#FFF;
+    }
+    .UnixAdministration {
+        background-color:#18d1d3;
+        color:#FFF;
+    }
+    .Agile{
+        background-color:#d318a5;
+        color:#FFF;
+    }
+}
+
+.text-colors() {
+    .red {
+        color:@innovation-red;
+    }
+    .yellow {
+        color:@innovation-yellow;
+    }
+    .blue {
+        color:@innovation-blue;
+    }
+    .orange {
+        color:@innovation-orange;
+    }
+    .green {
+        color:@innovation-green;
+    }
+}
+
+.border-colors() {
+    .red {
+        border: @innovation-red 4px solid;
+    }
+    .yellow {
+        border:@innovation-yellow 4px solid;
+    }
+    .blue {
+        border:@innovation-blue 4px solid;
+    }
+    .orange {
+        border:@innovation-orange 4px solid;
+    }
+    .green {
+        border:@innovation-green 4px solid;
+    }
+}
+
+.standard-text() {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+}
+
+.short-section-divider() {
+    background-color: @innovation-yellow;
+    height:2px;
+    width:200px;
+    border: none;
+    position: relative;
+    left:50%;
+    margin-left:-100px;
+}
+.centered-section() {
+    text-align: center;
+    padding: 0% 10%;
+}
+.command-text() {
+    font-size: 20px;
+    color:@command-color;
+    font-family: "Courier New", Courier, monospace;
+}
+
+.green-btn() {
+
+    padding:15px 40px;
+    color:#FFF;
+    cursor: pointer;
+    border-radius: 10px;
+    text-align: center;
+    
+    p {
+        margin: 0px;
+    }
+}
+
+.seperator() {
+    height:1px;
+	border: none;
+	background-color:#CCC;
+	width: 80%;
+}
+
+.section-header() {
+    .standard-text();
+    
+    .header-text {
+        font-size: 28px;
+        font-weight: 300;
+    }
+    
+    .text {
+        margin-top:-25px;
+        font-size: 18px;
+        border-top: 1px solid #CCC;
+        padding-top: 15px;
+        margin-bottom: 60px;
+    }
+    
+    @media screen and (max-width: 650px) {
+        .header-text {
+            width:90%;
+            margin-left:2.5%;
+        }
+
+        .text {
+           width:90%;
+           margin-left:2.5%;
+        }
+    }
+    
+    @media screen and (max-width: 760px) {
+    
+        .section-header {
+            .header-text {
+                font-size: 24px;
+            }
+            .text {
+                font-size: 16px;
+            }
+        } 
+    }
+    
+    @media screen and (max-width: 650px) {
+        .section-header {
+            .header-text {
+                font-size: 20px;
+                margin-bottom: 30px;
+            }
+            .text {
+                font-size: 14px;
+                padding-top: 6px;
+            }
+        } 
+    }
+}
+
+
+
+html, body {
+    overflow-x: hidden;
+    width: 100%;
+	padding: 0px;
+	margin: 0px;
+}
+

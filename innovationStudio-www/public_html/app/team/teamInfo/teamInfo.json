@@ -1,0 +1,866 @@
+[
+{
+    "name": "Craig Graham",
+    "title": "User Experience Engineer",
+    "picture": "img/teamPhotos/craig.png",
+    "color": "green",
+    "id": "Craig",
+    "size": "large",
+    "titleSize": "large",
+    "quickfacts": [
+        {
+            "img": "img/teamIcons/cereal.png",
+            "title": "Cereal Fanatic",
+            "caption": "Has the diet of a 5 year old, Cereal and PB&J's"
+        },
+        {
+            "img": "img/teamIcons/farmer.png",
+            "title": "Simple Sheep Farmer",
+            "caption": "Grew up on a 4-H farm"
+        },
+        {
+            "img": "img/teamIcons/hammer.png",
+            "title": "DIY'er Extraordinaire",
+            "caption": "Or so he thinks he is"
+        },
+        {
+            "img": "img/teamIcons/runningMan.png",
+            "title": "Running Man",
+            "caption": "Qualified for and ran the Boston Marathon"
+        }
+    ],
+    "tagline": "Craig is the one of Innovation Studio's resident designer/frontend developers - his user-centered approach to design leads to effective and delightful solutions",
+    "abilities": [
+        {
+            "title": "Web Design",
+            "score": "9",
+            "blurb": "I have been developing and designing for the web for the last five years.  Headphones on and a dry-ease marker in hand, frantically scribbling away is my at-work happy place. It is a personal victory whenever I am able delight someone with the unexpected when they interact with the interfaces I create."
+        },
+        {
+            "title": "User Research",
+            "score": "8",
+            "blurb": "Hard problems are the best! I love the complex challenges of conducting, analyzing and reporting user research. User Centered Design is a huge passion of mine and I can't think of a more vital part of UCD than accurate user research."
+        },
+        {
+            "title": "Visual Design",
+            "score": "6",
+            "blurb": "Ever since High School I have been obsessed with visual design.  This has translated into a quest to use fantastic visual design to aid in the creation of effective user experiences. "
+        },
+        {
+            "title": "Child Rearing",
+            "score": "(In Progress, No Sound Data at This Time)",
+            "blurb": "I am a foster father to an awesome infant who inspires me everyday to always observe and learn from the world around me (wow that was cheesy)"
+        }
+    ]
+},
+{
+    "name": "Lorem ipsum",
+    "title": "Software Engineer / Ninja",
+    "picture": "img/teamPhotos/spock.png",
+    "color": "yellow",
+    "id": "Robert",
+    "size": "large",
+    "titleSize": "large",
+    "quickfacts": [
+        {
+            "img": "img/teamIcons/keyboard.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        },
+        {
+            "img": "img/teamIcons/saw.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncuss"
+        },
+        {
+            "img": "img/teamIcons/book.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncusy"
+        },
+        {
+            "img": "img/teamIcons/beard.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        }
+    ],
+    "tagline": "nteger et leo condimentum, bibendum tellus non, placerat erat. Sed id finibus dolor, vel laoreet nibh. Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus",
+    "abilities": [
+        {
+            "title": "Security",
+            "score": "6",
+            "blurb": "nteger et leo condimentum, bibendum tellus non, placerat erat. Sed id finibus dolor, vel laoreet nibh. Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus."
+        },
+        {
+            "title": "Unit/Functional Test Automation",
+            "score": "8",
+            "blurb": "nteger et leo condimentum, bibendum tellus non, placerat erat. Sed id finibus dolor, vel laoreet nibh. Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus."
+        },
+        {
+            "title": "Code (C, Objective-C, Swift, Ruby)",
+            "score": "9",
+            "blurb": "nteger et leo condimentum, bibendum tellus non, placerat erat. Sed id finibus dolor, vel laoreet nibh. Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus."
+        },
+        {
+            "title": "Best Practices Ranting",
+            "score": "11",
+            "blurb": "nteger et leo condimentum, bibendum tellus non, placerat erat. Sed id finibus dolor, vel laoreet nibh. Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus"
+        }
+    ]
+},
+{
+    "name": "Lorem ipsum",
+    "title": "Information Security Software Engineer",
+    "picture": "img/teamPhotos/spock.jpg",
+    "color": "yellow",
+    "id": "Bob",
+    "size": "large",
+    "titleSize": "small",
+    "quickfacts": [
+        {
+            "img": "img/teamIcons/culdron.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        },
+        {
+            "img": "img/teamIcons/code.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        },
+        {
+            "img": "img/teamIcons/game.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        },
+        {
+            "img": "img/teamIcons/patent.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        }
+    ],
+    "tagline": " Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque at nibh urna.",
+    "abilities": [
+        {
+            "title": "Algorithms and data structures",
+            "score": "9",
+            "blurb": " Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque at nibh urna. Praesent eget commodo lacus, id ullamcorper justo. Curabitur tortor quam, scelerisque nec lorem non, lacinia commodo libero. Maecenas ipsum dui, varius sit amet finibus ac, suscipit ut risus."
+        },
+        {
+            "title": "Unit testing and code quality",
+            "score": "7",
+            "blurb": " Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque at nibh urna. Praesent eget commodo lacus, id ullamcorper justo. Curabitur tortor quam, scelerisque nec lorem non, lacinia commodo libero. Maecenas ipsum dui, varius sit amet finibus ac, suscipit ut risus."
+        },
+        {
+            "title": "Code performance and optimization",
+            "score": "8",
+            "blurb": " Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque at nibh urna. Praesent eget commodo lacus, id ullamcorper justo. Curabitur tortor quam, scelerisque nec lorem non, lacinia commodo libero. Maecenas ipsum dui, varius sit amet finibus ac, suscipit ut risus."
+        },
+        {
+            "title": "Dynamic pun creation",
+            "score": "10",
+            "blurb": " Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque at nibh urna. Praesent eget commodo lacus, id ullamcorper justo. Curabitur tortor quam, scelerisque nec lorem non, lacinia commodo libero. Maecenas ipsum dui, varius sit amet finibus ac, suscipit ut risus."
+        }
+    ]
+},
+{
+    "name": "Lorem ipsum",
+    "title": "Lead Systems Engineer & Security Architect",
+    "picture": "img/teamPhotos/yoda.jpg",
+    "color": "orange",
+    "id": "Lenny",
+    "size": "large",
+    "titleSize": "small",
+    "quickfacts": [
+       {
+            "img": "img/teamIcons/dad.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        },
+        {
+            "img": "img/teamIcons/carFactory.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        },
+        {
+            "img": "img/teamIcons/car2.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        },
+        {
+            "img": "img/teamIcons/backpacker.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        }
+    ],
+    "tagline": "Praesent sit amet finibus justo. Nulla vitae laoreet purus. Donec rutrum volutpat enim, sed tempor tortor ultrices ac. ",
+   "abilities": [
+        {
+            "title": "Security Architecture Design",
+            "score": "10",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod."
+        },
+        {
+            "title": "Collaborative Problem Solving",
+            "score": "9",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        },
+        {
+            "title": "Unix Administration",
+            "score": "6",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        },
+        {
+            "title": "Antique Technology Restoration",
+            "score": "7",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod."
+        }
+    ]
+},
+{
+    "name": "Lorem ipsum",
+    "title": "QA Master (Level 4)",
+    "picture": "img/teamPhotos/batman.jpg",
+    "color": "blue",
+    "id": "Betty",
+    "size": "small",
+    "titleSize": "large",
+    "quickfacts": [
+        {
+            "img": "img/teamIcons/shoes.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        },
+        {
+            "img": "img/teamIcons/jump.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        },
+        {
+            "img": "img/teamIcons/compass.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        },
+        {
+            "img": "img/teamIcons/therm.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        }
+    ],
+    "tagline": "Lorem ipsum",
+    "abilities": [
+        {
+            "title": "Not filling out ability forms",
+            "score": "10",
+            "blurb": "Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms"
+        },
+        {
+            "title": "Not filling out ability forms",
+            "score": "10",
+            "blurb": "Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms"
+        },
+        {
+            "title": "Not filling out ability forms",
+            "score": "10",
+            "blurb": "Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms"
+        },
+        {
+            "title": "Not filling out ability forms",
+            "score": "10",
+            "blurb": "Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms"
+        }
+    ]
+},
+{
+    "name": "Lorem ipsum",
+    "title": "Software Engineer",
+    "picture": "img/teamPhotos/spock.png",
+    "color": "red",
+    "id": "James",
+    "size": "normal",
+    "titleSize": "large",
+    "quickfacts": [
+        {
+            "img": "img/teamIcons/boardGame_red.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        },
+        {
+            "img": "img/teamIcons/trivia.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        },
+        {
+            "img": "img/teamIcons/owl.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        },
+        {
+            "img": "img/teamIcons/guage.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        }
+    ],
+    "tagline": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. ",
+    "abilities": [
+        {
+            "title": "Rewriting code to be clearer and more concise",
+            "score": "9",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        },
+        {
+            "title": "Thorough Automated Testing",
+            "score": "8",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        },
+        {
+            "title": "Understanding Complicated Processes/Systems",
+            "score": "8",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        },
+        {
+            "title": "Getting Animals to Like Me",
+            "score": "10",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        }
+    ]
+},
+{
+    "name": "Lorem ipsum",
+    "title": "Pink Fluffy Unicorn",
+    "picture": "img/teamPhotos/batman.png",
+    "color": "green",
+    "id": "Bert",
+    "size": "large",
+    "titleSize": "large",
+    "quickfacts": [
+        {
+            "img": "img/teamIcons/gardener.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        },
+        {
+            "img": "img/teamIcons/traveler.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncuso"
+        },
+        {
+            "img": "img/teamIcons/dungons.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        },
+        {
+            "img": "img/teamIcons/oyster.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        }
+    ],
+    "tagline": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque at nibh urna.",
+    "abilities": [
+        {
+            "title": "DevOps / Build Automation",
+            "score": "9",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        },
+        {
+            "title": "Agile Management",
+            "score": "7",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        },
+        {
+            "title": "Design Patterns",
+            "score": "5",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        },
+        {
+            "title": "Starting Up",
+            "score": "8",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        }
+    ]
+},
+{
+    "name": "Lorem ipsum",
+    "title": "Michigan Brian",
+    "picture": "img/teamPhotos/spock.jpg",
+    "color": "yellow",
+    "id": "Barry",
+    "size": "large",
+    "titleSize": "large",
+    "quickfacts": [
+        {
+            "img": "img/teamIcons/home.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        },
+        {
+            "img": "img/teamIcons/bass.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        },
+        {
+            "img": "img/teamIcons/solider.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        },
+        {
+            "img": "img/teamIcons/tent.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncusg"
+        }
+    ],
+    "tagline": "NClass aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque at nibh urna.",
+    "abilities": [
+        {
+            "title": "Agile disciplined flavors of Product/Project Management",
+            "score": "10",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        },
+        {
+            "title": "Team building",
+            "score": "10",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        },
+        {
+            "title": "Python and Web Tech",
+            "score": "10",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        },
+        {
+            "title": "Teaching and presenting on Bible, Professional, and other topics",
+            "score": "10",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        }
+    ]
+},
+{
+    "name": "Lorem ipsum",
+    "title": "UX Engineer / Sales",
+    "picture": "img/teamPhotos/batman.jpg",
+    "color": "blue",
+    "id": "Mike",
+    "size": "large",
+    "titleSize": "large",
+    "quickfacts": [
+        {
+            "img": "img/teamIcons/scarecrow.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        },
+        {
+            "img": "img/teamIcons/robot.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncust"
+        },
+        {
+            "img": "img/teamIcons/videoGame.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncust"
+        },
+        {
+            "img": "img/teamIcons/beer.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        }
+    ],
+    "tagline": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque at nibh urna.",
+    "abilities": [
+        {
+            "title": "User Experience Practitioner",
+            "score": "10",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        },
+        {
+            "title": "Front End Development",
+            "score": "10",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        },
+        {
+            "title": "Back End Development",
+            "score": "10",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        },
+        {
+            "title": "PolySkilled Technology Tinkering",
+            "score": "10",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        }
+    ]
+},
+{
+    "name": "Lorem ipsum",
+    "title": "Software Engineer",
+    "picture": "img/teamPhotos/batman.png",
+    "color": "orange",
+    "id": "Clark",
+    "size": "large",
+    "titleSize": "large",
+    "quickfacts": [
+        {
+            "img": "img/teamIcons/backpacker.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        },
+        {
+            "img": "img/teamIcons/boardGame.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        },
+        {
+            "img": "img/teamIcons/plane.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        },
+        {
+            "img": "img/teamIcons/castle.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncuss"
+        }
+    ],
+    "tagline": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque at nibh urna.",
+    "abilities": [
+        {
+            "title": ".NET Development",
+            "score": "9",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        },
+        {
+            "title": "Test Driven Development",
+            "score": "6",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        },
+        {
+            "title": "Software Architecting",
+            "score": "8",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        },
+        {
+            "title": "Trip Planning",
+            "score": "4",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        }
+    ]
+},
+{
+    "name": "Lorem ipsum",
+    "title": "Problem Solver",
+    "picture": "img/teamPhotos/yoda.png",
+    "color": "red",
+    "id": "Willy",
+    "size": "large",
+    "titleSize": "large",
+    "quickfacts": [
+       {
+            "img": "img/teamIcons/mad_scientist.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus!"
+        },
+        {
+            "img": "img/teamIcons/grill.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        },
+        {
+            "img": "img/teamIcons/home_red.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        },
+        {
+            "img": "img/teamIcons/linux.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        }
+    ],
+    "tagline": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque at nibh urna.",
+    "abilities": [
+        {
+            "title": "Unix",
+            "score": "9",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        },
+        {
+            "title": "Storage",
+            "score": "8",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        },
+        {
+            "title": "Databases",
+            "score": "7",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        },
+        {
+            "title": "Cycling",
+            "score": "4",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        }
+    ]
+},
+{
+    "name": "Lorem ipsum",
+    "title": "Software Engineer",
+    "picture": "img/teamPhotos/spock.png",
+    "color": "blue",
+    "id": "Richard",
+    "size": "large",
+    "titleSize": "large",
+    "quickfacts": [
+        {
+            "img": "img/teamIcons/guitar.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        },
+        {
+            "img": "img/teamIcons/bike.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        },
+        {
+            "img": "img/teamIcons/car.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        },
+        {
+            "img": "img/teamIcons/beer.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        }
+    ],
+    "tagline": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque at nibh urna.",
+    "abilities": [
+        {
+            "title": "Unit, integration, and functional testing",
+            "score": "7",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        },
+        {
+            "title": "Build chain development",
+            "score": "6",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        },
+        {
+            "title": "Development - AngularJS / Java / C# / Node",
+            "score": "7",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        },
+        {
+            "title": "Implementor of order to all things",
+            "score": "8",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        }
+    ]
+},
+{
+    "name": "Lorem ipsum",
+    "title": "Software Developer",
+    "picture": "img/teamPhotos/bountyhunter.png",
+    "color": "red",
+    "id": "Bruce",
+    "size": "large",
+    "titleSize": "large",
+    "quickfacts": [
+        {
+            "img": "img/teamIcons/sunBathe.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        },
+        {
+            "img": "img/teamIcons/puzzleMan.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        },
+        {
+            "img": "img/teamIcons/spice.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        },
+        {
+            "img": "img/teamIcons/prof.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        }
+    ],
+    "tagline": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque at nibh urna.",
+    "abilities": [
+        {
+            "title": "Lean and DRY Coding",
+            "score": "8",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        },
+        {
+            "title": "Functional Testing",
+            "score": "8",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. r"
+        },
+        {
+            "title": "Automation",
+            "score": "8",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod."
+        },
+        {
+            "title": "IT Solutions for Real-World Problems",
+            "score": "6",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        }
+    ]
+},
+{
+    "name": "Lorem ipsum",
+    "title": "IT Risk Specialist",
+    "picture": "img/teamPhotos/spock.jpeg",
+    "color": "green",
+    "id": "Brandon",
+    "size": "normal",
+    "titleSize": "large",
+    "quickfacts": [
+        {
+            "img": "img/teamIcons/karate.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        },
+        {
+            "img": "img/teamIcons/cheese.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        },
+        {
+            "img": "img/teamIcons/clean.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        },
+        {
+            "img": "img/teamIcons/cheif.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        }
+    ],
+    "tagline": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque at nibh urna.",
+   "abilities": [
+        {
+            "title": "Lorem ipsum dolor",
+            "score": "8",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        },
+        {
+            "title": "Lorem ipsum dolor",
+            "score": "8",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        },
+        {
+            "title": "Lorem ipsum dolor",
+            "score": "7",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        },
+        {
+            "title": "Lorem ipsum dolor",
+            "score": "10",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        }
+    ]
+},
+{
+    "name": "Lorem ipsum",
+    "title": "Fearless Leader",
+    "picture": "img/teamPhotos/batman.png",
+    "color": "green",
+    "id": "Leader",
+    "size": "normal",
+    "titleSize": "large",
+    "quickfacts": [
+        {
+            "img": "img/teamIcons/rocket.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        },
+        {
+            "img": "img/teamIcons/hammer.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        },
+        {
+            "img": "img/teamIcons/target.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        },
+        {
+            "img": "img/teamIcons/beer_green.png",
+            "title": "Lorem ipsum dolor",
+            "caption": "Praesent ultrices purus nec purus rhoncus"
+        }
+    ],
+    "tagline": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque at nibh urna.",
+    "abilities": [
+        {
+            "title": "Interviewing and Team Crafting",
+            "score": "8",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        },
+        {
+            "title": "Customer Obession",
+            "score": "8",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        },
+        {
+            "title": "Agile Transformation",
+            "score": "9",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        },
+        {
+            "title": "Able to Pitch Without a Deck",
+            "score": "7",
+            "blurb": "Pellentesque auctor metus at velit euismod, vel porttitor ligula aliquet. Duis porta quam ut quam rhoncus cursus. Quisque viverra, sapien sit amet posuere vulputate, diam ex dictum tortor, sed tristique tellus augue eu purus. Proin mollis tortor vel ipsum venenatis, nec lobortis dolor placerat. Vestibulum sodales odio ut rutrum euismod. "
+        }
+    ]
+},
+{
+    "name": "Lorem ipsum",
+    "title": "Badger Expert",
+    "picture": "img/teamPhotos/batman.jpg",
+    "color": "red",
+    "id": "Cham",
+    "size": "large",
+    "titleSize": "large",
+    "quickfacts": [
+        {
+            "img": "img/teamIcons/red_question.png",
+            "title": "Missing",
+            "caption": "Missing"
+        },
+        {
+            "img": "img/teamIcons/red_question.png",
+            "title": "Missing",
+            "caption": "Missing"
+        },
+        {
+            "img": "img/teamIcons/red_question.png",
+            "title": "Missing",
+            "caption": "Missing"
+        },
+        {
+            "img": "img/teamIcons/red_question.png",
+            "title": "Missing",
+            "caption": "Missing"
+        }
+    ],
+    "tagline": "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque at nibh urna.",
+    "abilities": [
+         {
+            "title": "Not filling out ability forms",
+            "score": "10",
+            "blurb": "Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms"
+        },
+        {
+            "title": "Not filling out ability forms",
+            "score": "10",
+            "blurb": "Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms"
+        },
+        {
+            "title": "Not filling out ability forms",
+            "score": "10",
+            "blurb": "Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms"
+        },
+        {
+            "title": "Not filling out ability forms",
+            "score": "10",
+            "blurb": "Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms Not filling out ability forms"
+        }
+    ]
+}
+]

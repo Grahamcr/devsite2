@@ -1,0 +1,316 @@
+@import "global.less";
+
+#approach-page {
+    .standard-text();
+    
+    
+    #approach-header {
+        position: absolute;
+        top:60px;
+        height: 100%;
+        width: 100%;
+        
+        #top-image {
+            width:48%;
+            margin-left: 26%;
+            position: relative;
+            top:80px;
+            min-height: 300px;
+            img {
+                width: 100%;
+                display: block;
+                margin: auto;
+                max-width: 1100px;
+                
+            }
+        }
+        #main-header {
+            text-align: center;
+            position: relative;
+            top:120px;
+            padding-left: 30px;
+            padding-right: 30px;
+            #title {
+                width: 100%;
+                display: block;
+                margin: auto;
+                max-width: 1200px;
+            }
+            #subtitle {
+                font-size: 25px;
+                width:70%;
+                margin-left:15%;
+                margin-top: 0px;
+                line-height: 35px;
+            }
+        }
+        
+        @media screen and (max-width: 900px) {
+            #top-image {
+                width:78%;
+                margin-left:16%;
+            }
+            #main-header {
+                top:160px;
+                
+                #subtitle {
+                    font-size: 20px;
+                    line-height: 30px;
+                }
+            }
+        }
+        
+        @media screen and (max-width: 500px) {
+            #top-image {
+                top:200px;
+                margin-bottom: 0px;
+            }
+            
+        }
+    }
+    #approach-below-fold {
+        position: absolute;
+        top:100%;
+        width: 100%;
+        padding-top: 200px;
+        
+        #top-of-fold-divider {
+
+            margin-bottom: 100px;
+        }
+        .short-section-divider {
+            .short-section-divider();
+        }
+        
+        .value-row {
+            width:100%;
+        
+            .value-icon {
+                width:400px;
+                display: inline-block;
+                vertical-align: middle;
+                margin-top: 150px;
+                img {
+                    width: 100%;
+                }
+            }
+            .value-icon.left {
+                float:left;
+                margin-right:175px;
+                margin-left:300px;
+            }
+            .value-icon.left.responsive {
+                display: none;
+            }
+            
+            .value-block {
+                width:500px;
+                background-color: #FFF;
+                display: inline-block;
+                vertical-align: middle;
+                min-height: 500px;
+                padding: 96px 75px;
+                box-shadow: 0 0 50px 0 rgba(0,0,0,0.05);
+                backface-visibility: hidden;
+                z-index: 2;
+                position: relative;
+                
+                .category {
+                    color: #999;
+                    font-size: 25px;
+                    width:80%;
+                    font-weight: 100;
+                    margin-left:10%;
+                    margin-bottom: 0px;
+                }
+                .title {
+                    font-size: 50px;
+                    color: #333;
+                    width:80%;
+                    margin-left:10%;
+                    margin-top: 15px;
+                }
+                .description {
+                    font-size: 20px;
+                    color: #666666;
+                    width:80%;
+                    margin-left:10%;
+                    line-height: 35px;
+                }
+            }
+            
+            .value-block.left {
+                float:left;
+                margin-right:175px;
+                margin-left:300px;
+
+            }
+  
+        }
+        .photo-row {
+            height: 400px;
+            width: 100%;
+            position: relative;
+            top:-30px;
+            z-index: 0;
+            overflow: hidden;
+            margin-bottom: 100px;
+            
+            img {
+                width: 100%;
+            }
+        }
+        .photo-row.large {
+            height: 600px;
+        }
+        
+         #bottom-c2a {
+            text-align: center;
+            margin-bottom: 200px;
+            width: 100%;
+            .link {
+                background-color: @innovation-blue;
+                padding: 20px 20px;
+                color:#FFF;
+                cursor: pointer;
+                font-size: 20px;
+                text-align: center;
+                .standard-text();
+                width:180px;
+                border-radius: 5px;
+                display: inline-block;
+                position: absolute;
+                left:50%;
+                margin-left: -115px;
+            }
+            .text {
+                font-size: 40px;
+                border-bottom: @block-border;
+                margin-bottom: 5px;
+                text-align: center;
+                width: 80%;
+                margin-left:10%;
+            }
+        }
+        @media screen and (max-width: 1700px) {
+            top:98%;
+            padding-top: 150px;
+            
+            #top-of-fold-divider {
+
+                margin-bottom: 70px;
+            }
+        }
+        @media screen and (max-width: 1550px) {
+            .value-row {
+                .value-icon.left, .value-block.left {
+                    margin-left: 150px;
+                }
+            }
+        }
+        @media screen and (max-width: 1400px) {
+            top:98%;
+            padding-top: 50px;
+            
+            #top-of-fold-divider {
+
+                margin-bottom: 50px;
+            }
+            
+            .value-row {
+                .value-icon.left, .value-block.left {
+                    margin-left: 75px;
+                    margin-right: 100px;
+                }
+            }
+        }
+        @media screen and (max-width: 1230px) {
+            top:95%;
+            padding-top: 0px;
+            
+            #top-of-fold-divider {
+
+                margin-bottom: -50px;
+            }
+            
+            .value-row {
+                .value-icon.left, .value-block.left {
+                    margin-left: 10px;
+                    margin-right: 40px;
+                }
+            }
+        }
+        
+        @media screen and (max-width: 1130px) {
+            
+            .value-row {
+                .value-icon, .value-block, .value-icon.left, .value-block.left {
+                    clear: both;
+                    display: block;
+                    margin: auto;
+                    float:none;
+                }
+                .value-icon.right {
+                    display: none;
+                }
+                .value-icon.left.responsive {
+                    display: inherit;
+                }
+            }
+        }
+        
+        @media screen and (max-width: 900px) {
+            top:100%;
+            padding-top: 50px;
+            
+            #top-of-fold-divider {
+                z-index: -1;
+                color: #FFF;
+                background-color: #FFF;
+                margin-bottom: -50px;
+            }
+        }
+        
+        @media screen and (max-width: 670px) {
+            
+            .value-row {
+                .value-icon {
+                    width:250px;    
+                }
+                
+                .value-block {
+                    width:400px;
+                }
+            }
+            .photo-row.large {
+                margin-bottom: -150px;
+            }
+        }
+        
+        @media screen and (max-width: 560px) {
+            
+            .value-row {
+                .value-icon {
+                    width:225px;    
+                }
+                
+                .value-block {
+                    width:300px;
+                    
+                    .category {
+                        font-size:20px;
+                    }
+                    .title {
+                        font-size: 35px;
+                    }
+                    .description {
+                        font-size: 18px;
+                    }
+                }
+            }
+            .photo-row.large {
+                margin-bottom: -150px;
+            }
+        }
+    }
+}

@@ -1,0 +1,90 @@
+<div class="profile-modal" id="{{profile.id}}">
+    
+    <div class="top-bar {{profile.color}}">
+        <i class="fa fa-close" close-profile></i>
+    </div>
+    
+    <div class="header">
+        
+        <div class="header-left">
+            
+            <div class="inner-width">
+                
+                <div class="img-area {{profile.color}}">
+                    <img src="{{profile.picture}}"/>
+                </div>
+                <div class="right-of-picture">
+                    <p class="name {{profile.size}}">{{profile.name}}</p>
+                    <p class="title {{profile.titleSize}}">{{profile.title}}</p>
+                </div>
+            
+            </div>
+
+        </div>
+
+        <div class="header-right">
+            
+            <div class="inner-width">
+                
+                <p class="title">Four Quick Facts About {{profile.id}}</p>
+            
+                <div class="quick-facts-area">
+
+                    <div class="quick-facts-block" ng-repeat="fact in profile.quickfacts">
+                
+                        
+                        <div class="img-area">
+                            <img src="{{fact.img}}"/>
+                        </div>
+                        <div class="title-block">
+                            <div class="inner-width">
+                                
+                                <p class="title {{profile.color}}">{{fact.title}}</p>
+                                <p class="subtitle">{{fact.caption}}</p>
+                            
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+    
+    <div class="tagline">
+        <p>{{profile.tagline}}</p>
+    </div>
+    
+    <hr class="top-bottom-divider">
+    
+    <div class="bottom">
+        
+        <div class="bottom-left">
+            
+            <div class="inner-width">
+                <p class="title">Top Four Abilities</p>
+                
+                <div class="img-area">
+                    <img src="img/teamGrids/{{profile.id}}.png"/>
+                </div>
+            </div>
+            
+        </div>
+        
+        <div class="bottom-right">
+            
+            <div class="inner-width">
+            
+                 <div class="ability" ng-repeat="ability in profile.abilities">
+                    <p class="title">{{ability.title}}</p>
+                    <p class="subtitle">{{ability.blurb}}</p>
+                </div>
+            
+            </div>
+            
+        </div>
+        
+    </div>
+    
+</div>

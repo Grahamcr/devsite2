@@ -1,0 +1,92 @@
+<header></header>
+<div id="contact-page">
+
+<div id="loading">
+    <div class="sk-folding-cube">
+      <div class="sk-cube1 sk-cube"></div>
+      <div class="sk-cube2 sk-cube"></div>
+      <div class="sk-cube4 sk-cube"></div>
+      <div class="sk-cube3 sk-cube"></div>
+    </div>
+    <p class="craig-brand">Sending...</p>
+</div>
+<div id="thanks">
+    <img src="img/greencheck.png"/>
+    <p class="craig-brand">Thank-you! Your Feedback Has Been Sent!</p>
+     <a ng-click="close('thanks');" class="popup-close">Close</a>
+</div>
+<div id="error">
+    <img src="img/green_error.png"/>
+    <div id="content"></div>
+    <a ng-click="close('error');" class="popup-close">Close</a>
+</div>
+    
+<div class="top-img">
+        
+    
+    <img id="header-img" src="img/connect_planes_bkg.png"/>
+
+    <div id="img-overlay">
+        <p id="overlay-title">Let's <span>Connect</span></p>
+        <p id="overlay-text">We would <span>love</span> to hear from you</p>
+        
+        <div id="learn-more" learn-more-scroll>
+            <a id="text">Get In Touch</a><br/>
+            <a id="cheveron-down"><span class="fa fa-angle-down"></span></a>
+        </div>
+    </div>
+
+
+</div>  
+    
+<div id="below-fold-content">
+    <div id="contact-overlay"></div>
+    <span id="learn-more-target"></span>
+    <p id="contact-header">Thank You For Your Interest!</p>
+    
+    <p id="contact-subtitle">We look forward to working with you to make something awesome!</p>
+    
+    <div id="contact-form">
+        
+
+        
+        <div class="row">
+            <p class="form-title">*Could You Tell Us Why You Are Contacting Us?</p>
+           <select class="contact-input select" ng-model="cinfo.type">
+              <option value="MyApps">Product Inquiry - Product 1</option>
+               <option value="Sandcastle">Product Inquiry - Product 2</option>
+               <option value="Vital">Product Inquiry - Product 3</option>
+               <option value="Now">Product Inquiry - Product 4</option>
+               <option value="Developer_Community">Product Inquiry - Product 5</option>
+              <option value="Feedback">Feedback</option>
+              <option value="General_Question">General Question</option>
+            </select>
+            <p class="hint-text"></p>
+        </div>
+        
+        
+        <div class="row">
+            <p class="form-title">*What Does Your Mom Call You?</p>
+            <input placeholder="Name" ng-model="cinfo.name" class="contact-input"/>
+            <p class="hint-text">Nickname, Full Name, etc</p>
+        </div>
+        
+        
+        <div class="row">
+            <p class="form-title">*Where Can We Reach You At?</p>
+            <input placeholder="SSO or Email" ng-model="cinfo.info" class="contact-input"/>
+            <p class="hint-text">Preferably your SSO or @ge email</p>
+        </div>
+    
+        
+        <div class="row">
+            <p class="form-title">*What Can We Help You With?</p>
+            <textarea placeholder="Kind Words, Compliments, Questions, Complaints - we accept them all." ng-model="cinfo.message" class="contact-textarea"/>
+            <p class="hint-text"></p>
+        </div>
+    
+        <a id="submit-btn" ng-click="submit(cinfo)">Send It!</a>
+    </div>
+</div>
+
+</div>
